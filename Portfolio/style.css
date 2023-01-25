@@ -1,0 +1,92 @@
+.navbar{
+    margin-left: 10%;
+    margin-right: 10%;
+    border-bottom-right-radius : 15px;
+    border-bottom-left-radius: 15px;  
+    background-color: #515A5A ;
+    
+}
+
+.navbar-item{
+    color: aliceblue;
+}
+
+/* .biotext{
+    padding-left: 10%;
+} */
+
+.indexbutton{
+    background-color: #3F8E00;
+}
+
+.profilephoto{
+    height: 50%;
+    width: 50%;    
+}
+
+.getintouch{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.indexbody{
+    background-color: black;
+}
+
+#text{
+    color: aliceblue;
+    text-align: justify;
+}
+
+#buttonbottom{
+    margin-right: 5%;
+}
+
+.footer{
+background-color: black;
+}
+
+.languages{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.column1{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.workbox1{
+  border: double;
+  border-color: black;  
+  padding-bottom: 10%;
+  border-radius: 5%;
+}
+.workbox2{
+    border: double;
+    border-color: black;  
+    padding-bottom: 5%;
+    border-radius: 5%;
+  }
+
+.web{
+    margin-top: 22%;
+  }
+.qq{
+    margin-top: 20%;
+}
+.ww{
+    margin-top: 40%;
+}
+
+.imagemyservices{
+    height: 50%;
+    width: 50%;
+}
+
+.aboutmebody{
+    background-image: i;
+}
+
